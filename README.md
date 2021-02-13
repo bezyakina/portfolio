@@ -3,9 +3,7 @@
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/bezyakina)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/beziakina/)
  
-[CV english version](https://www.notion.so/Elizaveta-Beziakina-QA-Engineer-19036b2ae89a4d1f9845a4bc750ce81a)
-
-[CV PDF download](https://github.com/bezyakina/portfolio/raw/main/CV.pdf)
+[CV english version](https://www.notion.so/Elizaveta-Beziakina-QA-Engineer-19036b2ae89a4d1f9845a4bc750ce81a) | [CV PDF download](https://github.com/bezyakina/portfolio/raw/main/CV.pdf)
  
 ##  Обо мне
  
