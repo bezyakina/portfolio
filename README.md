@@ -15,7 +15,7 @@
 - В марте 2020 прошла курс [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) - [cертификат](https://www.udemy.com/certificate/UC-6c47bb6b-0f0b-430a-af92-e6a7c220e6e9/);
 - В мае 2020 прошла несколько курсов от Google - [Crash Course on Python;
 ](https://www.coursera.org/account/accomplishments/records/EG6FHKWZRSEZ) и [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/records/L7X9CLQLYYFG);
-- С июня 2020 по март 2021 обучилась профессии [Python-разработчик](https://praktikum.yandex.ru/backend-developer/) (выпуск в марте 2021), уже выполненные проекты [YAMDB REST API](https://github.com/bezyakina/yamdb-api#api-yamdb), [Социальная сеть для блогеров](https://github.com/bezyakina/my-django-blog), [Telegram-бот](https://github.com/bezyakina/practicum-tg-bot).
+- С июня 2020 по март 2021 обучилась профессии [Python-разработчик](https://praktikum.yandex.ru/backend-developer/), несколько выполненных проектов [YAMDB REST API](https://github.com/bezyakina/yamdb-api#api-yamdb), [Социальная сеть для блогеров](https://github.com/bezyakina/my-django-blog), [Telegram-бот](https://github.com/bezyakina/practicum-tg-bot) и [диплом](be-diploma.pdf);
 
 Я стремлюсь к тому, чтобы стать экспертом в своей быстроразвивающейся области. Всегда открыта новым вызовам и карьерным возможностям :wink:
 
